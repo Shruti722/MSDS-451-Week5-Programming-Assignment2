@@ -76,11 +76,12 @@ The scatterplot clearly shows the trade-off between **annualized risk** and **re
 ```bash
 git clone https://github.com/Shruti722/MSDS-451-Programming-Assignment-1.git
 cd MSDS-451-Programming-Assignment-1
-
+```
 2. Open the notebook:
-
+```bash
 jupyter notebook 451_PA2.ipynb
+```
 
 3. Run all cells to regenerate the results and visualizations.
 
-```
+
