@@ -1,9 +1,6 @@
 # MSDS-451-Week5-Programming-Assignment2
 
 #  Portfolio Optimization via Monte Carlo Simulation
-
-> MSDS 451 – Programming Assignment 2  
-> Northwestern University | Master of Science in Data Science  
 ---
 
 ##  Repository Structure
